@@ -93,5 +93,50 @@
       "createDate": "28.07.2020",
       "updateDate": "28.07.2020"
     }
+  ],
+  "profiles": [
+    {
+      "id": 0,
+      "firstName": "Александр",
+      "lastName": "Дуговой",
+      "deliveryAddress": "Украина, Киевская область, Киев, вулиця Лютеранська, 2",
+      "phone": "+79789999999",
+      "extraPhone": "+79789999999",
+      "createDate": "28.07.2020",
+      "updateDate": "28.07.2020",
+      "uploads": "uploads",
+      "userId": 1111,
+      "paymentMethods": [
+        {
+          "id": 0,
+          "type": "CARD",
+          "options": "options",
+          "isDeleted": false,
+          "profileId": 1111
+        }  
+      ],
+      "companyId": 1111,
+      "companyRoles": [
+        "id": 111,
+        "name": "name",
+        "profiles": [
+          {
+            "id": 0,
+            "firstName": "Александр",
+            "lastName": "Дуговой",
+            "deliveryAddress": "Украина, Киевская область, Киев, вулиця Лютеранська, 2",
+            "phone": "+79789999999",
+            "extraPhone": "+79789999999",
+            "createDate": "28.07.2020",
+            "updateDate": "28.07.2020",
+            "uploads": "uploads",
+            "userId": 1111,
+            "paymentMethods": [],
+            "companyId": 1111,
+            "companyRoles": []
+          }  
+        ]
+      ]
+    }
   ]
 }
