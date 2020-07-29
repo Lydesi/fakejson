@@ -79,5 +79,19 @@
       "profileId": 123,
       "companyId": 10
     }
+  ],
+  "companies": [
+    {
+      "id": 0,
+      "name": "Company name",
+      "tin": "tin",
+      "accountNumber": "479745",
+      "correspondentAccountNumber": "correspondentAccountNumber",
+      "bankBIC": "bankBIC",
+      "bankAddress": "bankAddress",
+      "website": "www.google.com",
+      "createDate": "28.07.2020",
+      "updateDate": "28.07.2020"
+    }
   ]
 }
