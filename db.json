@@ -1,8 +1,62 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "items": [
+    {
+      "id": 0,
+      "title": "Item 1",
+      "description": "Описание товара",
+      "priceRetail": 500,
+      "priceWholesale": 450,
+      "wholesaleMinQuantity": 100,
+      "discountPriceWholesale": 400,
+      "discountPriceRetail": 450,
+      "weight": 5,
+      "width": 50,
+      "height": 50,
+      "length": 15,
+      "unitCount": 50,
+      "measurementUnit": "Единица измерения",
+      "createDate": "28.07.2020",
+      "updateDate": "28.07.2020",
+      "uploads": "Отсутствуют",
+      "isDeleted": false,
+      "companyId": 10,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Название категории",
+          "nextCategoryId": 11,
+          "itemTitlePlaceholder": "Название тайтл плейсхолдера",
+          "itemDescriptionPlaceholder": "Название дескрипшн плейсхолдера"
+          "slug": "category_slug",
+          "uploads": "Uploads",
+          "parentCategoryId": 10,
+          items: [
+            {
+              "id": 0,
+              "title": "Item 1",
+              "description": "Описание товара",
+              "priceRetail": 500,
+              "priceWholesale": 450,
+              "wholesaleMinQuantity": 100,
+              "discountPriceWholesale": 400,
+              "discountPriceRetail": 450,
+              "weight": 5,
+              "width": 50,
+              "height": 50,
+              "length": 15,
+              "unitCount": 50,
+              "measurementUnit": "Единица измерения",
+              "createDate": "28.07.2020",
+              "updateDate": "28.07.2020",
+              "uploads": "Отсутствуют",
+              "isDeleted": false,
+              "companyId": 10,
+              "categories": []
+            }  
+          ]
+        }  
+      ]
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
