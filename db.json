@@ -57,5 +57,27 @@
         }  
       ]
     }
+  ],
+  "orders": [
+    {
+      "id": 0,
+      "status": "NEW",
+      "invoiceId": "invoiceId",
+      "comment": "Комментарий",
+      "orderItems": [
+        {
+          "id": 0,
+          "itemCount": 10,
+          "itemPrice": 500,
+          "itemDiscountPrice": 450,
+          "itemId": 12,
+          "orderId": 100,
+        }  
+      ],
+      "createDate": "28.07.2020",
+      "updateDate": "28.07.2020",
+      "profileId": 123,
+      "companyId": 10
+    }
   ]
 }
