@@ -15,8 +15,8 @@
       "length": 15,
       "unitCount": 50,
       "measurementUnit": "Единица измерения",
-      "createDate": "28.07.2020",
-      "updateDate": "28.07.2020",
+      "createDate": "2020-07-29T23:46:34.057Z",
+      "updateDate": "2020-07-29T23:46:34.057Z",
       "uploads": "Отсутствуют",
       "isDeleted": false,
       "companyId": 10,
@@ -46,8 +46,8 @@
               "length": 15,
               "unitCount": 50,
               "measurementUnit": "Единица измерения",
-              "createDate": "28.07.2020",
-              "updateDate": "28.07.2020",
+              "createDate": "2020-07-29T23:46:34.057Z",
+              "updateDate": "2020-07-29T23:46:34.057Z",
               "uploads": "Отсутствуют",
               "isDeleted": false,
               "companyId": 10,
@@ -74,8 +74,8 @@
           "orderId": 100
         }  
       ],
-      "createDate": "28.07.2020",
-      "updateDate": "28.07.2020",
+      "createDate": "2020-07-29T23:46:34.057Z",
+      "updateDate": "2020-07-29T23:46:34.057Z",
       "profileId": 123,
       "companyId": 10
     }
@@ -90,8 +90,8 @@
       "bankBIC": "bankBIC",
       "bankAddress": "bankAddress",
       "website": "www.google.com",
-      "createDate": "28.07.2020",
-      "updateDate": "28.07.2020"
+      "createDate": "2020-07-29T23:46:34.057Z",
+      "updateDate": "2020-07-29T23:46:34.057Z"
     }
   ],
   "profiles": [
@@ -102,8 +102,8 @@
       "deliveryAddress": "Украина, Киевская область, Киев, вулиця Лютеранська, 2",
       "phone": "+79789999999",
       "extraPhone": "+79789999999",
-      "createDate": "28.07.2020",
-      "updateDate": "28.07.2020",
+      "createDate": "2020-07-29T23:46:34.057Z",
+      "updateDate": "2020-07-29T23:46:34.057Z",
       "uploads": "uploads",
       "userId": 1111,
       "paymentMethods": [
@@ -128,8 +128,8 @@
               "deliveryAddress": "Украина, Киевская область, Киев, вулиця Лютеранська, 2",
               "phone": "+79789999999",
               "extraPhone": "+79789999999",
-              "createDate": "28.07.2020",
-              "updateDate": "28.07.2020",
+              "createDate": "2020-07-29T23:46:34.057Z",
+              "updateDate": "2020-07-29T23:46:34.057Z",
               "uploads": "uploads",
               "userId": 1111,
               "paymentMethods": [],
